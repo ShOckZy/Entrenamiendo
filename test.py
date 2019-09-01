@@ -1,3 +1,7 @@
+
+/*
+Esto es un comentario
+*/
 import sys, pygame
 pygame.init()
 
